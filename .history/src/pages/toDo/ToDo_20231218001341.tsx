@@ -1,3 +1,0 @@
-const ToDo: React.FC = ()=>{
-
-}
