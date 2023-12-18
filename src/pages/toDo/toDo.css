@@ -1,0 +1,26 @@
+.todo-container {
+    width: 300px;
+    margin: auto;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+.todo-item {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.todo-name {
+    margin-right: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+button {
+    margin-left: 5px;
+    cursor: pointer;
+}

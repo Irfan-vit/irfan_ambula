@@ -1,0 +1,17 @@
+.shopping-cart-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.items-section,
+.cart-section,
+.totals-section {
+    width: 30%;
+}
+
+.item-list-item,
+.cart-item {
+    list-style: none;
+    margin-bottom: 10px;
+}
